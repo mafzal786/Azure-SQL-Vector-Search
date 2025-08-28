@@ -8,5 +8,6 @@ Restore this database into your SQL server. Vector data type is supported in SQL
 ## Steps
 
 - Make sure, you have Azure OpenAI resource is provisioned. Modify the get_embeddings.sql with Azure OpenAI endpoint and access key.
+- Run create vector embeddings table.sql
 - 
 
